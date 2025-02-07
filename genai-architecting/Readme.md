@@ -21,3 +21,4 @@ We have to be sure that we have the copyrights to the provided to students mater
 
 We are considering using IBM Granite because it is truly open-source model with training data that is traceable so we can avoid any copyright issues and we know the insides of the model.
 https://www.ibm.com/granite
+https://huggingface.co/ibm-granite
