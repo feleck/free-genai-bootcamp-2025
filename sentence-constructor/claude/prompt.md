@@ -84,7 +84,4 @@ When the input sounds like a question about language learning then we can assume
 - Try and provide a non-nested bulleted list.
 - Talk about the vocabulary but try to leave out the japanese words because the student can refer to the vocabulary table.
 
-## Examples
-Here are examples of user input and assistant output, pay attention to the score because and why the exanoke us scored the way it is.
-
-## Student Input: Did you see the raven this morning? They were looking at our garden.
+- Reference the <file>considerations-examples.xml</file> for good considerations examples.
