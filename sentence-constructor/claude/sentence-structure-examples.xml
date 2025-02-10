@@ -1,10 +1,42 @@
-- The bird is black. → [Subject] [Adjective].
-- The raven is in the garden. → [Location] [Subject] [Verb].
-- Put the garbage in the garden. → [Location] [Object] [Verb].
-- Did you see the raven? → [Subject] [Object] [Verb]?
-- This morning, I saw the raven. → [Time] [Subject] [Object] [Verb].
-- Are you going? → [Subject] [Verb]?
-- Did you eat the food? → [Object] [Verb]?
- -The raven is looking at the garden. → [Subject] [Verb] [Location].
-- The raven is in the garden, and it is looking at the flowers. → [Location] [Subject] [Verb], [Object] [Verb].
- -I saw the raven because it was loud. → [Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb].
+<sentence-structure-examples>
+    <example>
+        <sentence>The bird is black.</sentence>
+        <structure>[Subject] [Adjective].</structure>
+    </example>
+    <example>
+        <sentence>The raven is in the garden.</sentence>
+        <structure>[Location] [Subject] [Verb].</structure>
+    </example>
+    <example>
+        <sentence>Put the garbage in the garden.</sentence>
+        <structure>[Location] [Object] [Verb].</structure>
+    </example>
+    <example>
+        <sentence>Did you see the raven?</sentence>
+        <structure>[Subject] [Object] [Verb]?</structure>
+    </example>
+    <example>
+        <sentence>This morning, I saw the raven.</sentence>
+        <structure>[Time] [Subject] [Object] [Verb].</structure>
+    </example>
+    <example>
+        <sentence>Are you going?</sentence>
+        <structure>[Subject] [Verb]?</structure>
+    </example>
+    <example>
+        <sentence>Did you eat the food?</sentence>
+        <structure>[Object] [Verb]?</structure>
+    </example>
+    <example>
+        <sentence>The raven is looking at the garden.</sentence>
+        <structure>[Subject] [Verb] [Location].</structure>
+    </example>
+    <example>
+        <sentence>The raven is in the garden, and it is looking at the flowers.</sentence>
+        <structure>[Location] [Subject] [Verb], [Object] [Verb].</structure>
+    </example>
+    <example>
+        <sentence>I saw the raven because it was loud.</sentence>
+        <structure>[Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb].</structure>
+    </example>
+</sentence-structure-examples>
